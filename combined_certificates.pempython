@@ -1,0 +1,322 @@
+-----BEGIN CERTIFICATE-----
+MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+MjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI
+2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx
+1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQ
+q2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5Wz
+tCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQ
+vIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAP
+BgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV
+5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY
+1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4
+NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NG
+Fdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ91
+8rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTe
+pLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTfl
+MrY=
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIEszCCA5ugAwIBAgIQCyWUIs7ZgSoVoE6ZUooO+jANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+MjAeFw0xNzExMDIxMjI0MzNaFw0yNzExMDIxMjI0MzNaMGAxCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xHzAdBgNVBAMTFlJhcGlkU1NMIFRMUyBSU0EgQ0EgRzEwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC/uVklRBI1FuJdUEkFCuDL/I3aJQiaZ6aibRHj
+ap/ap9zy1aYNrphe7YcaNwMoPsZvXDR+hNJOo9gbgOYVTPq8gXc84I75YKOHiVA4
+NrJJQZ6p2sJQyqx60HkEIjzIN+1LQLfXTlpuznToOa1hyTD0yyitFyOYwURM+/CI
+8FNFMpBhw22hpeAQkOOLmsqT5QZJYeik7qlvn8gfD+XdDnk3kkuuu0eG+vuyrSGr
+5uX5LRhFWlv1zFQDch/EKmd163m6z/ycx/qLa9zyvILc7cQpb+k7TLra9WE17YPS
+n9ANjG+ECo9PDW3N9lwhKQCNvw1gGoguyCQu7HE7BnW8eSSFAgMBAAGjggFmMIIB
+YjAdBgNVHQ4EFgQUDNtsgkkPSmcKuBTuesRIUojrVjgwHwYDVR0jBBgwFoAUTiJU
+IBiV5uNu5g/6+rkS7QYXjzkwDgYDVR0PAQH/BAQDAgGGMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjASBgNVHRMBAf8ECDAGAQH/AgEAMDQGCCsGAQUFBwEB
+BCgwJjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEIGA1Ud
+HwQ7MDkwN6A1oDOGMWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEds
+b2JhbFJvb3RHMi5jcmwwYwYDVR0gBFwwWjA3BglghkgBhv1sAQEwKjAoBggrBgEF
+BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzALBglghkgBhv1sAQIw
+CAYGZ4EMAQIBMAgGBmeBDAECAjANBgkqhkiG9w0BAQsFAAOCAQEAGUSlOb4K3Wtm
+SlbmE50UYBHXM0SKXPqHMzk6XQUpCheF/4qU8aOhajsyRQFDV1ih/uPIg7YHRtFi
+CTq4G+zb43X1T77nJgSOI9pq/TqCwtukZ7u9VLL3JAq3Wdy2moKLvvC8tVmRzkAe
+0xQCkRKIjbBG80MSyDX/R4uYgj6ZiNT/Zg6GI6RofgqgpDdssLc0XIRQEotxIZcK
+zP3pGJ9FCbMHmMLLyuBd+uCWvVcF2ogYAawufChS/PT61D9rqzPRS5I2uqa3tmIT
+44JhJgWhBnFMb7AGQkvNq9KNS9dd3GWc17H/dXa1enoxzWjE0hBdFjxPhUb0W3wi
+8o34/m8Fxw==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIGMDCCBRigAwIBAgIQBkFsqKDqHNG8AjzQAkrzmjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZSYXBpZFNTTCBUTFMgUlNBIENBIEcx
+MB4XDTI0MDExMTAwMDAwMFoXDTI1MDIxMDIzNTk1OVowGzEZMBcGA1UEAwwQKi5p
+cGluZGlhLmdvdi5pbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALdN
+ThKztznmjqVTKSj6BWi7Ipax6E29m4xyvZTMCbxpZ7wSzQTz+N6vrm5kuhTuly4j
+AT3Yu28Bwu1rUk2CZ1RSs4AHaDq3y7EMrYdbwUFQWwqKQAFA1r3vvGO8FZLmTWSe
+lY4707MI0sHZfStjKD7l/uS4gP0nNOBkGiSKbOVOL1woaRYsjJ3RRdiupp38x/JA
+Zm7wOYCzK/CsJWvGy7m4Lfygj6CHmBNo3OX/u8QhAKgF04YFWZ/oq+aZ6nZ89BdB
+XGJ5V0znvqmYOt1hqskVL9T/JpazELtBsuvvDprvJvnRfRQDiX/bfLgzuI0xHGj2
+Nk41l3iSj+YldPtCbw0CAwEAAaOCAykwggMlMB8GA1UdIwQYMBaAFAzbbIJJD0pn
+CrgU7nrESFKI61Y4MB0GA1UdDgQWBBSuRKz9PgLjRrQLzZTGJnfdTRytZTArBgNV
+HREEJDAighAqLmlwaW5kaWEuZ292Lmlugg5pcGluZGlhLmdvdi5pbjA+BgNVHSAE
+NzA1MDMGBmeBDAECATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0
+LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY2RwLnJhcGlkc3NsLmNv
+bS9SYXBpZFNTTFRMU1JTQUNBRzEuY3JsMHYGCCsGAQUFBwEBBGowaDAmBggrBgEF
+BQcwAYYaaHR0cDovL3N0YXR1cy5yYXBpZHNzbC5jb20wPgYIKwYBBQUHMAKGMmh0
+dHA6Ly9jYWNlcnRzLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFRMU1JTQUNBRzEuY3J0
+MAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB3AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjPdBH5kAAAQDAEgwRgIhAOHh
+PciLOPoO2wwy8VUnxzkLdYM1aRr11V0szq9LNygyAiEAiVy9BeycIIaseiPRZE7R
+cVyfdtf0iE5Zp9ONpSQs+FIAdQB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kO
+jC55uAAAAYz3QR97AAAEAwBGMEQCIDhAjDOFOpAjDIClFkgf69yu/uHD4ZgOi1YJ
+haXCmEfyAiBhv1vdLftDgw9GiSMsM3MNWov0Y81tNK9v49bAstb5wQB2AObSMWNA
+d4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABjPdBH6gAAAQDAEcwRQIgPYWX
+YBy5z2KsW4G8iad20dOAx47zUUzOvfBK0Bbx5MwCIQC9fm8uRxXolRPz5tYVtXga
+Cx7OglLLTpRfn3PfRBmA6jANBgkqhkiG9w0BAQsFAAOCAQEAGOHyPN6eFybEMGY/
+AkQ+KoyNdbUxJIU1/ErF3YQ0ZBbBr8nWVEKqQXoSirEtse7O0MC/7SEztsZKGFdY
+J94yPUY2oTylZdYS0AALEhEsp77l0iinyi+sJOYZJMm11HrDLOu1Z+HtHEer+Xu9
+qz0B8UrkzsWjr8ADJDW4nL+We9ZkWfeTt/oYrQI15czWR1sPal3did1u6qyYDgbK
+YrABItGQ/Gb812Fdx5K5Zq7eL9NJQnNitmsN7JvjyaT45Ju22oXrgOHfzNqXmVfl
+YPBbvzQAKf/sHNMYerit2ELS350FhnUZ0RPqf2MyfQ90z4dD/7OXfxB4KtDj78ND
+RI2HVg==
+-----END CERTIFICATE-----
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+import requests
+import time
+import certifi
+from bs4 import BeautifulSoup
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+
+# Read input data from Excel
+input_file = 'C:\Vicky\Personal Project space\LawStream WebScrapper\input_data.xlsx'  # Replace with your input file path
+output_file = 'C:\Vicky\Personal Project space\LawStream WebScrapper\output_data.xlsx'  # Replace with your desired output file path
+
+# Read the Excel file using pandas
+input_data = pd.read_excel(input_file)
+
+# List to store the scraped data
+scraped_data = []
+
+chrome_options = Options()
+chrome_options.add_argument('--ignore-certificate-errors')  # Ignore SSL certificate errorss
+
+# Set up Selenium WebDriver
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=chrome_options)
+# driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())  # Make sure ChromeDriver is in your PATH
+
+
+
+# Iterate through each row in the input data
+for index, row in input_data.iterrows():
+    type = row['Type']
+    if type == 'Wordmark':
+        wordmark = row['Wordmark']  # Replace with your column name in Excel
+        tm_class = str(row['Class'])  # Replace with your column name in Excel
+
+        # Open the website
+        driver.get("https://tmrsearch.ipindia.gov.in/tmrpublicsearch/frmmain.aspx")
+
+        # Wait until the input fields are present
+        wait = WebDriverWait(driver, 10)
+
+        # Extract cookies from Selenium session to use in the request
+        cookies = driver.get_cookies()
+        session_cookies = {cookie['name']: cookie['value'] for cookie in cookies}
+        print(session_cookies)
+
+        # Define headers for the request
+        headers = {
+            'accept': 'application/json, text/javascript, */*; q=0.01',
+            'accept-encoding': 'gzip, deflate, br, zstd',
+            'accept-language': 'en-US,en;q=0.9',
+            'content-type': 'application/json; charset=UTF-8',
+            'origin': 'https://tmrsearch.ipindia.gov.in',
+            'referer': 'https://tmrsearch.ipindia.gov.in/',
+            'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36',
+            'x-requested-with': 'XMLHttpRequest'
+        }
+
+        try:
+            # Wait until the Wordmark input is available and then find the element
+            wordmark_input = wait.until(EC.presence_of_element_located((By.ID, 'ContentPlaceHolder1_TBWordmark')))
+            class_input = driver.find_element(By.ID, 'ContentPlaceHolder1_TBClass')
+
+            # Enter the search terms
+            wordmark_input.clear()
+            class_input.clear()
+            wordmark_input.send_keys(wordmark)
+            class_input.send_keys(tm_class)
+
+            # time.sleep(10)
+
+            # URL for GetCaptcha request
+            captcha_url = 'https://tmrsearch.ipindia.gov.in/tmrpublicsearch/frmmain.aspx/GetCaptcha'
+
+            # Path to your downloaded certificate
+            certificate_path = 'C:\Vicky\Personal Project space\LawStream WebScrapper\combined_certificates.pem'
+
+            # Send the POST request to the GetCaptcha endpoint
+            response = requests.post(captcha_url, headers=headers, cookies=session_cookies, json={}, verify=certifi.where())
+
+            response.raise_for_status()  # Check for HTTP errors
+
+            # Check if the request was successful
+            if response.status_code == 200:
+                captcha_solution = response.json()['d']
+                print(f"Captcha Solution: {captcha_solution}")
+            else:
+                print(f"Failed to retrieve CAPTCHA solution. Status Code: {response.status_code}")
+                driver.quit()
+                exit()
+
+            # Handle CAPTCHA (you may need to pause here and solve it manually or use a third-party CAPTCHA-solving service)
+            print(f"Please solve the CAPTCHA manually for Wordmark: {wordmark} and Class: {tm_class}...")
+
+            # Wait for manual CAPTCHA solving or for it to be solved by an automated service
+            time.sleep(10)  # Adjust time as necessary
+
+            # Submit the form
+            submit_button = driver.find_element(By.XPATH, "//input[@type='submit']")  # Adjust to actual submit button ID
+            submit_button.click()
+
+            # Wait for the results to load
+            wait.until(EC.presence_of_element_located((By.ID, 'ContentPlaceHolder1_MGVSearchResult')))  # Update this ID with the actual results container ID
+
+            # Scrape the data using BeautifulSoup
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+            # Example: Finding all rows in the trademark table
+            trademark_rows = soup.find_all('td')  # Adjust to actual class or identifier
+
+            if not trademark_rows:
+                print("No trademark rows found. Check if the page structure has changed or if the data is loading dynamically.")
+                continue
+
+            # Iterate over each row and extract information
+            for row in trademark_rows:
+                wordmark_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_lblsimiliarmark_')})
+                proprietor_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_LblVProprietorName_')})
+                applicationNumber_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_lblapplicationnumber_')})
+                class_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_lblsearchclass_')})
+                status_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_Label6_')})
+
+                # Ensure the span is found before attempting to get text
+                if wordmark_span and proprietor_span and applicationNumber_span and class_span and status_span:
+                    wordmark_text = wordmark_span.get_text(strip=True)
+                    proprietor_text = proprietor_span.get_text(strip=True)
+                    applicationNumber_text = applicationNumber_span.get_text(strip=True)
+                    class_text = class_span.get_text(strip=True)
+                    status_text = status_span.get_text(strip=True)
+
+                    scraped_data.append({'Searched Wordmark': wordmark, 'Class': tm_class, 'Wordmark': wordmark_text, 'Proprietor': proprietor_text, 'Application Number': applicationNumber_text, 'Class': class_text, 'Status': status_text})
+                else:
+                    print("No wordmark found in this row. Check the row's HTML structure.")
+            
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            scraped_data.append({'Wordmark': wordmark, 'Class': tm_class, 'Result': f"Error: {str(e)}"})
+
+    if type == 'Vienna Code':
+        vienna_code = row['Vienna']  # Replace with your column name in Excel
+        tm_class = str(row['Class'])  # Replace with your column name in Excel
+
+        # Open the website
+        driver.get("https://tmrsearch.ipindia.gov.in/tmrpublicsearch/frmmain.aspx")
+
+        # Wait until the input fields are present
+        wait = WebDriverWait(driver, 10)
+
+        try:
+            # Wait until the Wordmark input is available and then find the element
+            search_input = wait.until(EC.presence_of_element_located((By.XPATH, "//option[@value='VC']")))
+            search_input.click()
+
+            time.sleep(5)
+
+            close_checkbox = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[@class='ajax__validatorcallout_innerdiv']")))
+            close_checkbox.click()
+            time.sleep(5)
+
+
+            vienna_input = wait.until(EC.presence_of_element_located((By.ID, 'ContentPlaceHolder1_TBVienna')))
+            class_input = driver.find_element(By.ID, 'ContentPlaceHolder1_TBClass')
+
+            # Enter the search terms
+            vienna_input.clear()
+            class_input.clear()
+            vienna_input.send_keys(wordmark)
+            class_input.send_keys(tm_class)
+
+            # Handle CAPTCHA (you may need to pause here and solve it manually or use a third-party CAPTCHA-solving service)
+            print(f"Please solve the CAPTCHA manually for Vienna Code: {vienna_code} and Class: {tm_class}...")
+
+            # Wait for manual CAPTCHA solving or for it to be solved by an automated service
+            time.sleep(15)  # Adjust time as necessary
+
+            # Submit the form
+            submit_button = driver.find_element(By.XPATH, "//input[@type='submit']")  # Adjust to actual submit button ID
+            submit_button.click()
+
+            # Wait for the results to load
+            wait.until(EC.presence_of_element_located((By.ID, 'ContentPlaceHolder1_MGVSearchResult')))  # Update this ID with the actual results container ID
+
+            # Scrape the data using BeautifulSoup
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+            # Example: Finding all rows in the trademark table
+            trademark_rows = soup.find_all('tbody')  # Adjust to actual class or identifier
+
+            if not trademark_rows:
+                print("No trademark rows found. Check if the page structure has changed or if the data is loading dynamically.")
+                continue
+
+            # Iterate over each row and extract information
+            for row in trademark_rows:
+                wordmark_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_lblsimiliarmark_')})
+                proprietor_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_LblVProprietorName_')})
+                applicationNumber_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_lblapplicationnumber_')})
+                class_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_lblsearchclass_')})
+                status_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_Label6_')})
+                vienna_span = row.find('span', {'id': lambda x: x and x.startswith('ContentPlaceHolder1_MGVSearchResult_LblViennaCode_')})
+
+                # Ensure the span is found before attempting to get text
+                if wordmark_span and proprietor_span and applicationNumber_span and class_span and status_span:
+                    wordmark_text = wordmark_span.get_text(strip=True)
+                    proprietor_text = proprietor_span.get_text(strip=True)
+                    applicationNumber_text = applicationNumber_span.get_text(strip=True)
+                    class_text = class_span.get_text(strip=True)
+                    status_text = status_span.get_text(strip=True)
+                    vienna_text = vienna_span.get_text(strip=True)
+
+                    scraped_data.append({'Searched Wordmark': wordmark, 'Class': tm_class, 'Wordmark': wordmark_text, 'Proprietor': proprietor_text, 'Application Number': applicationNumber_text, 'Class': class_text, 'Status': status_text})
+                else:
+                    print("No wordmark found in this row. Check the row's HTML structure.")
+            
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            scraped_data.append({'Wordmark': wordmark, 'Class': tm_class, 'Result': f"Error: {str(e)}"})
+
+# Close the WebDriver
+driver.quit()
+
+# Convert the scraped data to a DataFrame
+output_df = pd.DataFrame(scraped_data)
+output_df = output_df.drop_duplicates(keep="first")
+
+# Write the output data to a new Excel file using ExcelWriter and openpyxl engine
+with pd.ExcelWriter(output_file, engine='openpyxl') as writer:
+    output_df.to_excel(writer, index=False)
+
+print(f"Scraping complete! Results saved to {output_file}.")
+
