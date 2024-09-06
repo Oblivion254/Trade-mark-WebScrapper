@@ -6,7 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 import requests
 import time
-import certifi
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
@@ -39,7 +38,7 @@ for index, row in input_data.iterrows():
         driver.get("https://tmrsearch.ipindia.gov.in/tmrpublicsearch/frmmain.aspx")
 
         # Wait until the input fields are present
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 20)
 
         # Extract cookies from Selenium session to use in the request
         cookies = driver.get_cookies()
@@ -59,7 +58,7 @@ for index, row in input_data.iterrows():
         }
 
         try:
-            time.sleep(30)
+            time.sleep(10)
             # Wait until the Wordmark input is available and then find the element
             wordmark_input = wait.until(EC.presence_of_element_located((By.ID, 'ContentPlaceHolder1_TBWordmark')))
             class_input = driver.find_element(By.ID, 'ContentPlaceHolder1_TBClass')
@@ -72,7 +71,7 @@ for index, row in input_data.iterrows():
             wordmark_input.send_keys(wordmark)
             class_input.send_keys(tm_class)
 
-            time.sleep(20)
+            time.sleep(30)
 
             # URL for GetCaptcha request
             captcha_url = 'https://tmrsearch.ipindia.gov.in/tmrpublicsearch/frmmain.aspx/GetCaptcha'
@@ -143,6 +142,7 @@ for index, row in input_data.iterrows():
             print(f"An error occurred: {e}")
             scraped_data.append({'Wordmark': wordmark, 'Class': tm_class, 'Result': f"Error: {str(e)}"})
 
+    # --------------------------------------This part is under development----------------------------------------
     if type == 'Vienna Code':
         vienna_code = row['Vienna']  # Replace with your column name in Excel
         tm_class = str(row['Class'])  # Replace with your column name in Excel
@@ -222,6 +222,7 @@ for index, row in input_data.iterrows():
         except Exception as e:
             print(f"An error occurred: {e}")
             scraped_data.append({'Wordmark': wordmark, 'Class': tm_class, 'Result': f"Error: {str(e)}"})
+    # -------------------------------------------------End of part---------------------------------------------------------
 
 # Close the WebDriver
 driver.quit()
